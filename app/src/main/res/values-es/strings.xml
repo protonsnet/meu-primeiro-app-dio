@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="text">Bienvenido a mi primera aplicación para Android, desarrollada en Android kurdo con Kotlin por DIO.</string>
+</resources>

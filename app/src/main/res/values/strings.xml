@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="text">Bem vido ao meu primeiro App em Android, desenvolvido no curdo de Android com Kotlin pela DIO.</string>
+</resources>
